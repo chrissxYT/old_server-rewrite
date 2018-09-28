@@ -1,0 +1,14 @@
+name: chrissx-server-rewrite
+author: chrissx
+version: beta
+main: de.chrissx.server.rewrite.main.Main
+
+commands:
+ pos1:
+ pos2:
+ replace:
+ set:
+ biome:
+ sethome:
+ home:
+ sudo:
